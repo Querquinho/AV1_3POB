@@ -8,7 +8,7 @@ public class main {
         gerenciadorProdutos gerenciador = new gerenciadorProdutos();
 
         gerenciador.processa(scanner);
-
+        // teste alteração arquivo
         scanner.close();
 	}
 
