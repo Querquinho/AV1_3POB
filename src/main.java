@@ -9,6 +9,7 @@ public class main {
 
         gerenciador.processa(scanner);
         // teste alteração arquivo
+        // tst 2
         scanner.close();
 	}
 
