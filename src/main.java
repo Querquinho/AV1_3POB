@@ -11,6 +11,7 @@ public class main {
         // teste alteração arquivo
         // tst 2
         // tst 3
+        // teste 3
         scanner.close();
 	}
 
